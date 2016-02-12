@@ -1,0 +1,58 @@
+<p><strong>BUZZIs</strong></p>
+<p>Entwicklungs-Boards</p>
+<p>
+<table>
+<tr><td>01</td><td>Adapter 10 auf 2x5 (Raster 2.54mm)</td></tr>
+<tr><td>02</td><td>PIC 16F84 Controller</td></tr>
+<tr><td>03</td><td>PIC 12F629 / 12F675 Controller</td></tr>
+<tr><td>04</td><td>7A TRIAC mit Optokoppler-Treiber</td></tr>
+<tr><td>05</td><td>Spannungsregler 5V/1A 3.6V/100mA 1.8V/100mA</td></tr>
+<tr><td>06</td><td>Adapter 20 auf 2x10 (Raster 2.54mm)</td></tr>
+<tr><td>07</td><td>Adapter 14 auf 2x7 (Raster 2.54mm)</td></tr>
+<tr><td>08</td><td>10 LEDs 0805 mit separaten Vorwiderständen 0805</td></tr>
+<tr><td>09</td><td>2 8A MOSFETs mit Treiberschaltung</td></tr>
+<tr><td>10</td><td>Adapter SOIC 28</td></tr>
+<tr><td>11</td><td>Adapter SSOIC 48</td></tr>
+<tr><td>12</td><td>Stereo-Verstärker 5W mit LS-Regelung und Overload-Anzeige-LED</td></tr>
+<tr><td>13</td><td>6 Schraubklemmen</td></tr>
+<tr><td>14</td><td>RTC mit Goldcap und Oszillator</td></tr>
+<tr><td>15</td><td>USB-Adapter mit EEPROM</td></tr>
+<tr><td>16</td><td>Digitales Potentiometer</td></tr>
+<tr><td>17</td><td>LW-Empfänger</td></tr>
+<tr><td>18</td><td>5x7 RGB LEDs</td></tr>
+<tr><td>19</td><td>LPC2114 mit Oszillator, Resetschaltung und JTAG</td></tr>
+<tr><td>20</td><td>VGA Adapter</td></tr>
+<tr><td>21</td><td>3/5V -> 24V DC/DC Konverter</td></tr>
+<tr><td>22</td><td>PS/2 Adapter</td></tr>
+<tr><td>23</td><td>DVI Adapter</td></tr>
+<tr><td>24</td><td>Power Adapter</td></tr>
+<tr><td>25</td><td>4 Taster mit LEDs</td></tr>
+<tr><td>26</td><td>Li-Ion Charger / Power Adapter</td></tr>
+<tr><td>27</td><td>4 7-Segmentanzeigen LED</td></tr>
+<tr><td>28</td><td>PIC Programmieradapter mit Resetschaltung</td></tr>
+<tr><td>29</td><td>8-bit DA-Wandler mit Integrator</td></tr>
+<tr><td>30</td><td>SUB-D 9 Adapter</td></tr>
+<tr><td>31</td><td>PIC16F877</td></tr>
+<tr><td>32</td><td>SD/MMC Adapter</td></tr>
+<tr><td>33</td><td>Adapter 34 auf 1x34 (Raster 2.54mm)</td></tr>
+<tr><td>34</td><td>Adapter Color-OLED</td></tr>
+<tr><td>35</td><td>Adapter QFN-24</td></tr>
+<tr><td>36</td><td>Adapter FPC-30</td></tr>
+<tr><td>37</td><td>Adapter TSSOP-08</td></tr>
+<tr><td>38</td><td>Adapter QFP-64</td></tr>
+<tr><td>39</td><td>CellBuzz Proto 1 (Keyboard + LCD + Temp)</td></tr>
+<tr><td>40</td><td>Adapter QFN-32</td></tr>
+
+
+<tr><td>41</td><td>16x8 LED Module</td></tr>
+<tr><td>42</td><td>Adapter 2x28 2mm auf 4x14 2.54mm</td></tr>
+<tr><td>43</td><td>Adapter TSSOP-20</td></tr>
+<tr><td>44</td><td>Adapter SOT23-6</td></tr>
+<tr><td>45</td><td>PIC16F687 mit ICSP und Reset</td></tr>
+<tr><td>45-2</td><td>PIC16F687 mit ICSP und Reset, mit SPI-Connector</td></tr>
+<tr><td>46</td><td>LPC2103</td></tr>
+<tr><td>46-2</td><td>LPC2103 mit SPI-Connector und 3x I2C-Connector</td></tr>
+<tr><td>46-3</td><td>LPC2103 mit Proto-Board-Connector</td></tr>
+<tr><td>47</td><td>MAX3420 SPI USB</td></tr>
+
+</table>
