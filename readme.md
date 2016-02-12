@@ -1,19 +1,21 @@
 
 ###BUZZI Boards
 
-A series of boards for prototyping with .1 spaced pins for plugging them into breadboards.
+A series of boards for prototyping with .1 spaced pins for plugging them into breadboards. Eagle files.
 
 Mostly groups of components, some larger ones and some simple breakout boards as well.
 
 ###01 Breakout 1x10 to 2x5 (Raster 2.54mm)
 
-![BUZZI BOARD](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/Images/BUZZI-01.brd.png)
+![alt tag](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-01.brd.png)
 
 ###02 PIC 16F84 Controller
 
-![BUZZI BOARD](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/Images/BUZZI-02.brd.png)
+![alt tag](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-02.brd.png)
 
 ###03 PIC 12F629 / 12F675 Controller
+
+![BUZZI BOARD](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-03.brd.png)
 
 ###04 7A TRIAC with driver
 
