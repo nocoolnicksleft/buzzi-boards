@@ -59,11 +59,11 @@ Mostly groups of components, some larger ones and some simple breakout boards as
 
 ###19-b LPC2114 with Oscillator, reset and JTAG
 
-![Eagle PCB](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-19-b.brd.png)
+![Eagle PCB](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-19b.brd.png)
 
 ###19-c LPC2114 with Oscillator, reset and JTAG
 
-![Eagle PCB](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-19-c.brd.png)
+![Eagle PCB](https://raw.githubusercontent.com/nocoolnicksleft/buzzi-boards/master/Images/BUZZI-19c.brd.png)
 
 ###20 VGA Breakout
 
@@ -181,9 +181,12 @@ Mostly groups of components, some larger ones and some simple breakout boards as
 
 
 ###License
+
 [BSD](LICENSE-BSD.txt) for software
+
 [Creative Commons 4.0](LICENSE-CC.txt) for pcb and other artwork
 
 ###Copyright
+
 Copyright (c) 2016 Bjoern Seip
 
